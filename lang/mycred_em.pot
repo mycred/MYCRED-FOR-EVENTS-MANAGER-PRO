@@ -1,0 +1,285 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-25 16:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: mycred-events-manager.php:187
+msgid "Event Payment (Events Manager)"
+msgstr ""
+
+#: mycred-events-manager.php:188
+msgid "Event Sale (Events Manager)"
+msgstr ""
+
+#: mycred-events-manager.php:189
+msgid "Event Payment Refund (Events Manager)"
+msgstr ""
+
+#: mycred-events-manager.php:190
+msgid "Event Sale Refund (Events Manager)"
+msgstr ""
+
+#: mycred-events-manager.php:263
+msgid "More information about this plugin"
+msgstr ""
+
+#: mycred-events-manager.php:265
+msgid "View details"
+msgstr ""
+
+#: gateway/mycred-payments.php:35
+msgid "Ticket payment %bookingid%"
+msgstr ""
+
+#: gateway/mycred-payments.php:36
+msgid "Ticket refund %bookingid%"
+msgstr ""
+
+#: gateway/mycred-payments.php:37
+msgid "Event booking payment for %link_with_title%"
+msgstr ""
+
+#: gateway/mycred-payments.php:38
+msgid "Event booking refund for %link_with_title%"
+msgstr ""
+
+#: gateway/mycred-payments.php:42
+msgid "Pay using your %_plural% balance"
+msgstr ""
+
+#: gateway/mycred-payments.php:43
+msgid "Pay Now"
+msgstr ""
+
+#: gateway/mycred-payments.php:44
+msgid "Pay"
+msgstr ""
+
+#: gateway/mycred-payments.php:45
+msgid "%plural% Cost"
+msgstr ""
+
+#: gateway/mycred-payments.php:48
+msgid "Thank you for your payment!"
+msgstr ""
+
+#: gateway/mycred-payments.php:49
+msgid "I'm sorry but you can not pay for these tickets using %_plural%"
+msgstr ""
+
+#: gateway/mycred-payments.php:50
+msgid "You can not pay using this gateway."
+msgstr ""
+
+#: gateway/mycred-payments.php:324
+msgid "Ticket Type"
+msgstr ""
+
+#: gateway/mycred-payments.php:327 gateway/mycred-payments.php:331
+msgid "Price"
+msgstr ""
+
+#: gateway/mycred-payments.php:336
+msgid "Spaces"
+msgstr ""
+
+#: gateway/mycred-payments.php:393
+msgid "Your Balance"
+msgstr ""
+
+#: gateway/mycred-payments.php:609
+msgid "Payment declined. Please try a different payment option."
+msgstr ""
+
+#: gateway/mycred-payments.php:620
+#, php-format
+msgid "Duplicate transaction for booking ID: %s"
+msgstr ""
+
+#: gateway/mycred-payments.php:774
+msgid "Setup"
+msgstr ""
+
+#: gateway/mycred-payments.php:775
+#, php-format
+msgid "If you are unsure how to use this gateway, feel free to consult the %s."
+msgstr ""
+
+#: gateway/mycred-payments.php:775
+msgid "online documentation"
+msgstr ""
+
+#: gateway/mycred-payments.php:779
+msgid "Point Type"
+msgstr ""
+
+#: gateway/mycred-payments.php:793
+msgid "The point type to accept as payment."
+msgstr ""
+
+#: gateway/mycred-payments.php:799
+msgid "Store Currency"
+msgstr ""
+
+#: gateway/mycred-payments.php:801
+msgid "Bookings are paid using Points only."
+msgstr ""
+
+#: gateway/mycred-payments.php:802
+msgid "Bookings are paid using Real Money or Points."
+msgstr ""
+
+#: gateway/mycred-payments.php:806
+msgid "Refunds"
+msgstr ""
+
+#: gateway/mycred-payments.php:809
+msgid ""
+"The percentage of the paid amount to refund if a user cancels their booking "
+"or if a booking is rejected. Use zero for no refunds."
+msgstr ""
+
+#: gateway/mycred-payments.php:813
+msgid "Manually approve completed transactions?"
+msgstr ""
+
+#: gateway/mycred-payments.php:815
+msgid ""
+"By default, when someone pays for a booking, it gets automatically approved "
+"once the payment is confirmed. If you would like to manually verify and "
+"approve bookings, tick this box."
+msgstr ""
+
+#: gateway/mycred-payments.php:816
+#, php-format
+msgid ""
+"Approvals must also be required for all bookings in your <a href=\"%s\">"
+"settings</a> for this to work properly."
+msgstr ""
+
+#: gateway/mycred-payments.php:819
+msgid "Profit Sharing"
+msgstr ""
+
+#: gateway/mycred-payments.php:822
+msgid "Option to share sales with the event owner. Use zero to disable."
+msgstr ""
+
+#: gateway/mycred-payments.php:828
+msgid "Exchange Rate"
+msgstr ""
+
+#: gateway/mycred-payments.php:831
+#, php-format
+msgid "How many %s is needed to pay for 1 %s?"
+msgstr ""
+
+#: gateway/mycred-payments.php:837
+msgid "Log Templates"
+msgstr ""
+
+#: gateway/mycred-payments.php:840
+msgid "Booking Payments"
+msgstr ""
+
+#: gateway/mycred-payments.php:847
+msgid "Payment Refunds"
+msgstr ""
+
+#: gateway/mycred-payments.php:854
+msgid "Profit Share Payouts"
+msgstr ""
+
+#: gateway/mycred-payments.php:857 gateway/mycred-payments.php:864
+msgid "Ignored if profit sharing is disabled."
+msgstr ""
+
+#: gateway/mycred-payments.php:861
+msgid "Profit Share Refunds"
+msgstr ""
+
+#: gateway/mycred-payments.php:882
+msgid "Labels"
+msgstr ""
+
+#: gateway/mycred-payments.php:885
+msgid "Payment Link Label"
+msgstr ""
+
+#: gateway/mycred-payments.php:888
+msgid ""
+"The payment link shows / hides the payment form under \"My Bookings\". No "
+"HTML allowed."
+msgstr ""
+
+#: gateway/mycred-payments.php:892
+msgid "Payment Header"
+msgstr ""
+
+#: gateway/mycred-payments.php:895
+msgid "Shown on top of the payment form. No HTML allowed."
+msgstr ""
+
+#: gateway/mycred-payments.php:899
+msgid "Button Label"
+msgstr ""
+
+#: gateway/mycred-payments.php:902
+msgid "The button label for payments. No HTML allowed."
+msgstr ""
+
+#: gateway/mycred-payments.php:906
+msgid "Cart & Checkout Cost"
+msgstr ""
+
+#: gateway/mycred-payments.php:909
+msgid "Label for cost in %plural%."
+msgstr ""
+
+#: gateway/mycred-payments.php:915
+msgid "Messages"
+msgstr ""
+
+#: gateway/mycred-payments.php:918
+msgid "Successful Payments"
+msgstr ""
+
+#: gateway/mycred-payments.php:921
+msgid ""
+"Optional message to show users when they have successfully paid using points."
+msgstr ""
+
+#: gateway/mycred-payments.php:925
+msgid "Insufficient Funds"
+msgstr ""
+
+#: gateway/mycred-payments.php:928
+msgid ""
+"The message to show users that can not afford to pay for their order using "
+"points. Can not be empty! No HTML allowed!"
+msgstr ""
+
+#: gateway/mycred-payments.php:932
+msgid "Excluded"
+msgstr ""
+
+#: gateway/mycred-payments.php:935
+msgid ""
+"Optional message to show users who are excluded from the selected point type."
+" No HTML allowed."
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin connects myCRED with the Events Manager Pro plugin."
+msgstr ""
